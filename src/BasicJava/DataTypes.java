@@ -1,3 +1,5 @@
+package BasicJava;
+
 public class DataTypes {
     public static void main(String[] args) {
         byte myByte = 50;

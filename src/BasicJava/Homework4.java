@@ -1,3 +1,5 @@
+package BasicJava;
+
 public class Homework4 {
     public static void main(String[] args) {
         // Write a loop, that will replace all letters o in the sentence with 0

@@ -1,3 +1,5 @@
+package BasicJava;
+
 public class MyArray {
     public static void main(String[] args) {
         String[] students = {"Janek", "Piotrek", "Jakub"};
